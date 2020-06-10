@@ -1,0 +1,3 @@
+com.github.bianjiaxing2020.rpc.serialize.impl.MetadataSerializer
+com.github.bianjiaxing2020.rpc.serialize.impl.StringSerializer
+com.github.bianjiaxing2020.rpc.serialize.impl.RpcRequestSerializer
